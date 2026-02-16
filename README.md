@@ -1,6 +1,8 @@
-## Hi there 👋
+- 👋 Hi there, I'm Hermit.
+- ⚡ I'm trying to write more code and build something fun.
+- 📫 How to reach me: persona_gazer@outlook.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Hyde-Inwind&layout=compact&theme=vision-friendly-dark)
+
 
 <!--
 **Mr-Hyde-Inwind/Mr-Hyde-Inwind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

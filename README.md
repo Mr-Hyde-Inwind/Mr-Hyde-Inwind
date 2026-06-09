@@ -2,6 +2,10 @@
 - ⚡ I'm trying to write more code and build something fun.
 - 📫 How to reach me: persona_gazer@outlook.com
 
+---
+
+## Tech Stack
+`C` `C++` `Python` `TypeScript`
 
 
 <!--
